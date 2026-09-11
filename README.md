@@ -4,13 +4,17 @@
 
 项目实现了从 PDF 文档上传、文本解析、文本切分、向量化、语义检索，到基于检索结果进行大语言模型问答的完整 RAG（Retrieval-Augmented Generation）流程。
 
+## 🎬 项目演示
+
 <p align="center">
-  <img src="./RAE.png" alt="AI智能文档助手项目界面" width="100%">
+  <a href="https://github.com/victor1469/ERA/raw/refs/heads/main/demo/RAE.mp4">
+    <img src="./RAE.png" alt="AI智能文档助手项目界面" width="100%">
+  </a>
 </p>
 
 <p align="center">
-  <a href="./demo/RAE.mp4">
-    <strong>▶️ 点击观看完整项目演示（14s）</strong>
+  <a href="https://github.com/victor1469/ERA/raw/refs/heads/main/demo/RAE.mp4">
+    <strong>▶️ 点击播放完整项目演示（14s）</strong>
   </a>
 </p>
 
