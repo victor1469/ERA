@@ -4,6 +4,22 @@
 
 项目实现了从 PDF 文档上传、文本解析、文本切分、向量化、语义检索，到基于检索结果进行大语言模型问答的完整 RAG（Retrieval-Augmented Generation）流程。
 
+<p align="center">
+  <img src="./RAE.png" alt="AI智能文档助手项目界面" width="100%">
+</p>
+
+<p align="center">
+  <a href="./demo/RAE.mp4">
+    <strong>▶️ 点击观看完整项目演示（14s）</strong>
+  </a>
+</p>
+
+<p align="center">
+  展示 PDF 文档上传、知识库构建、文档检索、AI 问答及回答结果生成流程
+</p>
+
+---
+
 ## 项目简介
 
 Enterprise RAG Assistant 是一个本地运行的企业知识库问答系统。
